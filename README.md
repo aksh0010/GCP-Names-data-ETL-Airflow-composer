@@ -25,6 +25,9 @@ On Google Cloud Platform
    ![image](https://github.com/aksh0010/GCP-Names-data-ETL-Airflow-composer/assets/68304244/c49a28a9-f794-409b-87c9-9a3eed07215b)
 
 7) Now you can Track your progress.
+   
+   ![image](https://github.com/aksh0010/GCP-Names-data-ETL-Airflow-composer/assets/68304244/c4ba39f5-b8aa-457a-9b66-c0adffe2ea5b)
+
 
 ## Note:
   - While transforming  the data, Make sure you clean your data well enough and see BigQuery syntax for tables. Sometimes when you don't handle Non-English characters, it wont allow you to write on Bigquery    

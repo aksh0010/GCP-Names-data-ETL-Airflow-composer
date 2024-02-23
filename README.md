@@ -32,4 +32,4 @@ On Google Cloud Platform
 ## Note:
   - While transforming  the data, Make sure you clean your data well enough and see BigQuery syntax for tables. Sometimes when you don't handle Non-English characters, it wont allow you to write on Bigquery    
     table and throw errors.
-  - Always check Datatypes before and after operation on google buckets for newly created files and existing ones. Newly created csv is converted into application/octet-stream in that case you have to change its     type like I did in the code ( data_etl.py)
+  - Always check Datatypes before and after operation on google buckets for newly created files and existing ones. Newly created csv is converted into application/octet-stream in that case you have to change its     type like I did in the code ( names_etl.py)
